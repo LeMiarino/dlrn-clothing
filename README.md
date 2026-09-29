@@ -123,6 +123,6 @@
 
 **Denver Delorino**
 
-Aspiring Software Engineer
+Software Developer
 
 GitHub: [@denverdelorino](https://github.com/denverdelorino)
